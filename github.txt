@@ -1,0 +1,23 @@
+
+GUIDELINE ON HOW TO CREATE A GITHUB ACCOUNT
+1. Visit GitHub Website:  https://github.com/
+2. Click on the "Sign up" button, usually located in the upper-right corner of the GitHub homepage
+3. Create a GitHub Account:
+   Fill out the required information on the "Create your account" page.
+   This typically includes: username, email address, password
+4. Complete the verification process if prompted.
+5. Choose Plan
+6. After completing the sign-up process, you will receive a welcome email from GitHub
+
+7. Open the welcome email and click on the verification link to verify your email address.
+   This step is important to activate your GitHub account
+
+
+
+GUIDELINE ON HOW TO CLONE REPOS TO THE LOCAL MACHINE
+1. Go to the GitHub repository you want to clone.
+2. Click on the "Code" button (usually a green button) to reveal the repository's URL.
+3. Copy the HTTPS or SSH URL, depending on your preferred authentication method.
+4. Open a terminal on Linux or macOS, or a command prompt on Windows.
+5. Use the "cd" command to navigate to the directory where you want to clone the.
+6. Use the "git clone" command followed by the repository URL, to clone it to your local machine.

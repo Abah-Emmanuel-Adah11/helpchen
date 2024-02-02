@@ -1,0 +1,16 @@
+
+How to install git for Windows:
+1. Download the Git installer for Windows from the official Git website: Git for Windows.
+2. Run the downloaded installer.
+3. Follow the on-screen instructions, choosing the default options unless you have specific preferences.
+4. During the installation, you may be prompted to choose the default text editor and other settings.
+   You can typically stick with the default options if you're unsure.
+
+How to install git for macOS:
+   Git is usually pre-installed on macOS. However, you can update it or install the latest version using
+   Homebrew, a popular package manager for macOS.
+
+How to install git for Linux:
+1. Open a terminal.
+2. Update your package lists, with "sudo apt update"
+3. Install Git, with "sudo apt install git"

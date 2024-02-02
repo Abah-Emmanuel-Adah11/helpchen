@@ -1,0 +1,42 @@
+
+		20 GIT COMMAND AND THEIR FUNCTION
+
+1.  git init : Initializes a new Git repository in the current directory.
+
+2.  git clone <repository_url> : Creates a copy of a remote repository on your local machine.
+
+3.  git add <file(s)> : Adds changes in the working directory to the staging area for the next commit.
+
+4.  git commit -m "commit message" : Records changes staged in the current branch and adds a commit message.
+
+5.  git status : Displays the status of changes as untracked, modified, or staged.
+
+6.  git log : Shows a log of commits, including commit messages and commit IDs.
+
+7.  git branch : Lists all local branches and indicates the current branch.
+
+8.  git branch <branch_name> : Creates a new branch with the specified name.
+
+9.  git checkout <branch_name> : Switches to the specified branch.
+
+10. git merge <branch_name> : Combines changes from the specified branch into the current branch.
+
+11. git pull : Fetches changes from a remote repository and merges them into the current branch.
+
+12. git push : Pushes changes from the local repository to the remote repository.
+
+13. git log --oneline : Displays a simplified log with each commit on a single line.
+
+14. git show <commit> : Shows the changes introduced by a specific commit.
+
+15. git remote add <remote_name> <remote_url> : Adds a new remote repository with a specified name and URL.
+
+16. git remote remove <remote_name> : Removes the specified remote repository.
+
+17. git remote show <remote_name> : Displays information about a specific remote repository.
+
+18. git fetch <remote_name> : Fetches changes from a specific remote repository.
+
+19. git branch -d <branch_name> : Deletes a specified branch.
+
+20. git branch -m <new_branch_name> : Renames the current branch.
